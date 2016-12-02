@@ -1,0 +1,19 @@
+{
+  "name": "willywonka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maryann Vasilyeva",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "lodash-deep": "^2.0.0",
+    "restify": "^4.3.0",
+    "restify-validation": "0.0.5",
+    "sequelize": "1.7.11"
+  }
+}
